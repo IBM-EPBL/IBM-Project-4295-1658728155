@@ -1,2 +1,7 @@
 Sprint 1
 
+
+<li> Data Set is collected </li>
+<li> The dataset is divided into train and test data </li>
+<li> Pre-processing is done on the dataset </li>
+<li> Model building is started </li>
