@@ -20,7 +20,7 @@ This Web Application <br>
  The app is serviced by <b>Flask</b> in the back-end.
  
  <h3>Home Page</h3>
- <img src="/uploads/homepage.png">
+ <img src="/Project Development Phase/Sprint3/uploads/homepage.png">
  
  <h3> Output </h3>
-<img src="/uploads/output.png">
+<img src="/Project Development Phase/Sprint3/uploads/output.png">
