@@ -1,1 +1,5 @@
 
+The frontend of the application is built using html,css,and javascript.
+Two pages are created ,
+                Home page that is intergrated with flask 
+                About page that provides additional information and resources on sign language.
