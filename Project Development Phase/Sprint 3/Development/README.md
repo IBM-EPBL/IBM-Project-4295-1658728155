@@ -20,7 +20,7 @@ This Web Application <br>
  The app is serviced by <b>Flask</b> in the back-end.
  
  <h3>Home Page</h3>
- <img src="/Project Development Phase/Sprint3/uploads/homepage.png">
+ <img src="https://github.com/IBM-EPBL/IBM-Project-4295-1658728155/blob/main/Project%20Development%20Phase/Sprint%203/Development/uploads/homepage.png">
  
  <h3> Output </h3>
-<img src="/Project Development Phase/Sprint3/uploads/output.png">
+<img src="https://github.com/IBM-EPBL/IBM-Project-4295-1658728155/blob/main/Project%20Development%20Phase/Sprint%203/Development/uploads/homepage.png">
