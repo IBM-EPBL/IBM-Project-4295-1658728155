@@ -4,6 +4,7 @@
 <li>
 <b>Team ID : </b> PNT2022TMID01280 <br></li>
 <li><b>Project Name : </b> Real-Time Communication System Powered by AI for Specially Abled <br></li>
+<li> <b> Our Application Name : </B> EasyEar </li>
 <li><b>Team Leader : </b> Dymphna Mary C <br></li>
 <li><b>Team Members : </b> 
 <ul> <li> Jessica Judith S </li>
