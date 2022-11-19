@@ -23,4 +23,4 @@ This Web Application <br>
  <img src="https://github.com/IBM-EPBL/IBM-Project-4295-1658728155/blob/main/Project%20Development%20Phase/Sprint%203/Development/uploads/homepage.png">
  
  <h3> Output </h3>
-<img src="https://github.com/IBM-EPBL/IBM-Project-4295-1658728155/blob/main/Project%20Development%20Phase/Sprint%203/Development/uploads/homepage.png">
+<img src="https://github.com/IBM-EPBL/IBM-Project-4295-1658728155/blob/main/Project%20Development%20Phase/Sprint%203/Development/uploads/output.png">
