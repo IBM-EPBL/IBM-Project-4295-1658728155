@@ -16,8 +16,3 @@ This Web Application <br>
 <img src="/uploads/output.png">
 
 
-
-<h3>
-Note: </h3>
-The RTCS_webapp.py file is used to take real-time input from the local machine through camera and produces real-time classification.<br>
-The draw back is that, it cannot be deployed in a remote server as it works with local window to open and use camera. 
